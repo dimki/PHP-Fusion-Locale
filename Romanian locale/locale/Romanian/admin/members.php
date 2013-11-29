@@ -20,21 +20,21 @@ $locale['416'] = "Caut&#259;";
 $locale['417'] = "Alege ac&#355;iunea";
 $locale['418'] = "Anuleaz&#259;";
 $locale['419'] = "Reactiveaz&#259;";
-$locale['425'] = "<h2>Atentie!</h2><br />
-Esti pe cale sa stergi utilizatorul <strong>%s</strong> !<br />
-Urmatorul continut <u>postat de catre acest utilizator</u> pe acest site va fi sters daca veti continua:<br />
+$locale['425'] = "<h2>Aten&#355;ie!</h2><br />
+Sunte&#355;i pe cale s&#259; &#351;terge&#355;i utilizatorul <strong>%s</strong> !<br />
+Urm&#259;torul con&#355;inut <u>postat de c&#259;tre acest utilizator</u> pe acest site va fi &#351;ters dac&#259; ve&#355;i continua:<br />
 - Articole<br />
-- Stiri<br />
-- Discutiile din forum. Deasemenea postarile facute de alti utilizatori in aceste discutii vor fi sterse, impreuna cu voturile din sondaje si atasamentele din aceste discutii
-- Postarile in forum<br />
-- Atasamentele din forum<br />
-- Comentariile<br />
-- Mesajele private primite sau trimise de acest utilizator<br />
+- &#350;tiri<br />
+- Discu&#355;ii Forum. Re&#355;ine&#355;i c&#259; mesajele postate de al&#355;i utilizatori din aceste discu&#355;ii vor fi &#351;terse, &#238;mpreun&#259; cu voturile sondajului &#351;i ata&#351;amentele existente &#238;n aceste discu&#355;ii.<br />
+- Post&#259;ri Forum<br />
+- Ata&#351;amente Forum<br />
+- Comentarii<br />
+- Mesaje private trimise sau primite de c&#259;tre acest utilizator<br />
 - Voturile din sondaje<br />
-- Evaularile facute<br />
-Doar in cazul in care acesta nu este un \"spammer\" iti recomandam sa Interzici(Banezi), Suspedezi, Anulezi sau sa Anonimizezi acest user.<br />
+- Evaul&#259;rile f&#259;cute<br />
+Doar &#238;n cazul in care acesta nu este un \"spammer\" v&#259; recomand&#259;m s&#259; Interzice&#355;i, Suspeda&#355;i, Anula&#355;i sau s&#259; Anonimiza&#355;i acest utilizator.<br />
 <br />
-Esti sigur ca vrei sa stergi acest user?<br />";
+Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#537;terge&#355;i acest utilizator?<br />";
 $locale['426'] = "Da";
 $locale['427'] = "Nu";
 // Ban/Unban/Delete Member
