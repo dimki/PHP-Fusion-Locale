@@ -21,20 +21,20 @@ $locale['417'] = "Alege ac&#355;iunea";
 $locale['418'] = "Anuleaz&#259;";
 $locale['419'] = "Reactiveaz&#259;";
 $locale['425'] = "<h2>Aten&#355;ie!</h2><br />
-Sunte&#355;i pe cale s&#259; &#351;terge&#355;i utilizatorul <strong>%s</strong> !<br />
-Urm&#259;torul con&#355;inut <u>postat de c&#259;tre acest utilizator</u> pe acest site va fi &#351;ters dac&#259; ve&#355;i continua:<br />
+E&#351;ti pe cale s&#259; &#351;tergi utilizatorul <strong>%s</strong>!<br />
+Urm&#259;torul con&#355;inut <u>postat de utilizator</u> pe acest sait va fi &#351;ters dac&#259; continui:<br />
 - Articole<br />
 - &#350;tiri<br />
-- Discu&#355;ii Forum. Re&#355;ine&#355;i c&#259; mesajele postate de al&#355;i utilizatori din aceste discu&#355;ii vor fi &#351;terse, &#238;mpreun&#259; cu voturile sondajului &#351;i ata&#351;amentele existente &#238;n aceste discu&#355;ii.<br />
-- Post&#259;ri Forum<br />
-- Ata&#351;amente Forum<br />
+- Discu&#355;iile din forum. &#354;ine cont c&#259; vor fi &#351;terse &#351;i post&#259;rile f&#259;cute de al&#355;i utilizatori &#238;n aceste discu&#355;ii, al&#259;turi de sondajele &#351;i fi&#351;ierele ata&#351;ate.<br />
+- Post&#259;rile din forum<br />
+- Fi&#351;ierele ata&#351;ate &#238;n forum<br />
 - Comentarii<br />
-- Mesaje private trimise sau primite de c&#259;tre acest utilizator<br />
+- Mesajele private trimise sau primite de utilizator<br />
 - Voturile din sondaje<br />
-- Evaul&#259;rile f&#259;cute<br />
-Doar &#238;n cazul in care acesta nu este un \"spammer\" v&#259; recomand&#259;m s&#259; Interzice&#355;i, Suspeda&#355;i, Anula&#355;i sau s&#259; Anonimiza&#355;i acest utilizator.<br />
+- Evalu&#259;rile f&#259;cute<br />
+Dac&#259; acest utilizator nu este un spamer, este recomandat&#259; blocarea, suspendarea, anularea sau anonimizarea utilizatorului.<br />
 <br />
-Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#537;terge&#355;i acest utilizator?<br />";
+Sigur vrei s&#259; &#351;tergi acest utilizator?<br />";
 $locale['426'] = "Da";
 $locale['427'] = "Nu";
 // Ban/Unban/Delete Member
