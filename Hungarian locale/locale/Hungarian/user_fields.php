@@ -33,7 +33,7 @@ $locale['u069'] = "Szerkeszt";
 $locale['u070'] = "Kitilt";
 $locale['u071'] = "Felfüggeszt";
 $locale['u072'] = "Töröl";
-$locale['u073'] = "Valóban törölni szereznéd ezt a felhasználót?";
+$locale['u073'] = "Valóban törölni szeretnéd ezt a felhasználót?";
 
 // Profile and register
 $locale['u100'] = "Ha meg szeretnéd változtatni jelszavad vagy e-mail címed,<br /> kérjük add meg a jelenlegi jelszavadat is.";
@@ -145,7 +145,7 @@ $locale['u201'] = "E-mail címed lecseréléséhez kattints az e-mail-ben található 
 $locale['u202'] = "E-mail cím ellenõrzése - ".$settings['sitename'];
 $locale['u203'] = "Szia [USER_NAME],\n
 Valaki ezt az e-mail címet adta meg oldalunkon a profiljában.
-Ha valóban te szeretnéd lecserélni az e-mail címedet erre, kéjük kattints az alábbi linkre:\n
+Ha valóban te szeretnéd lecserélni az e-mail címedet erre, kérjük kattints az alábbi linkre:\n
 [EMAIL_VERIFY_LINK]\n
 Megjegyzés: a link használata elõtt jelentkezz be!\n
 Üdvözlettel,
