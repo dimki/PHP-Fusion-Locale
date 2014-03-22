@@ -18,11 +18,4 @@ $locale['html415'] = "שחור";
 $locale['html416'] = "אפור";
 $locale['html417'] = "כסף";
 $locale['html418'] = "לבן";
-// theNoam Mod
-$locale['html451'] = "קישור";
-$locale['html452'] = "תמונה";
-$locale['html453'] = "מירכוז";
-$locale['html454'] = "קטן";
-$locale['html455'] = "אפור";
-$locale['html456'] = "כחול";
 ?>

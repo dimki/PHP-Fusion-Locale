@@ -1,26 +1,26 @@
 <?php
 // Titles
-$locale['400'] = "Error Log";
-$locale['401'] = "Take a look into the file";
+$locale['400'] = "לוג שגיאות";
+$locale['401'] = "בדיקה של הקובץ";
 // Errors table
-$locale['410'] = "Error";
-$locale['411'] = "On Page";
-$locale['412'] = "User";
-$locale['413'] = "Date";
-$locale['414'] = "Status";
-$locale['415'] = "Line:";
-$locale['416'] = "Level:";
+$locale['410'] = "שגיאה";
+$locale['411'] = "בדף";
+$locale['412'] = "משתמש";
+$locale['413'] = "תאריך";
+$locale['414'] = "מצב";
+$locale['415'] = "שורה:";
+$locale['416'] = "רמה:";
 $locale['417'] = "IP:";
-$locale['418'] = "No errors in the log.";
-$locale['419'] = "File";
-$locale['420'] = "Details";
-$locale['421'] = "Source code";
-$locale['422'] = "Back to top";
+$locale['418'] = "אין שגיאות בלוג.";
+$locale['419'] = "קובץ";
+$locale['420'] = "פרוט";
+$locale['421'] = "קוד מקור";
+$locale['422'] = "מלמטה למעלה";
 // Delete form
-$locale['440'] = "Delete all entries with status";
+$locale['440'] = "מחיקת כל הרשימות במצב";
 // Status form
-$locale['450'] = "New";
-$locale['451'] = "Solved";
-$locale['452'] = "Ignored";
-$locale['453'] = "Apply";
+$locale['450'] = "חדש";
+$locale['451'] = "פתור";
+$locale['452'] = "התעלמות";
+$locale['453'] = "מופעל";
 ?>

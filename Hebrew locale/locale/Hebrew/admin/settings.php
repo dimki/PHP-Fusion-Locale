@@ -25,6 +25,16 @@ $locale['421'] = "מנע הצגת לוחות מרכזיים עליונים:";
 $locale['422'] = "מנע הצגת לוחות מרכזיים תחתונים:";
 $locale['423'] = "מנע הצגת צד ימין:";
 $locale['424'] = "<em>דוגמאות:</em><br />/news.php<br />/forum/index.php";
+$locale['425'] = "כתובת אתר";
+$locale['426'] = "פרוטוקול אתר:";
+$locale['427'] = "מארח אתר:";
+$locale['428'] = "דוגמא:";
+$locale['429'] = "נתיב אתר:";
+$locale['430'] = "יציאת אתר:";
+$locale['431'] = "הצגה מוקדמת:";
+$locale['432'] = "הגדרות אחרות";
+$locale['433'] = "mysite.com";
+$locale['434'] = "myfolder";
 // Time & Date Settings
 $locale['450'] = "תאריך ושעה";
 $locale['451'] = "פורמט תאריך קצר:";
@@ -38,7 +48,7 @@ $locale['458'] = "שעה";
 $locale['459'] = "שרת";
 $locale['460'] = "אתם";
 $locale['461'] = "אורחים";
-$locale['462'] = "אזור שמן שרת";
+$locale['462'] = "אזור זמן שרת";
 $locale['463'] = "יש לשנות כך שזמן השרת יהיה GMT 0";
 $locale['464'] = "אזור זמן ברירת מחדל";
 // Forum Settings
@@ -67,6 +77,14 @@ $locale['527'] = "1 שבוע";
 $locale['528'] = "1 חודש";
 $locale['529'] = "1 שנה";
 $locale['530'] = "תמיד";
+$locale['531'] = "הצגת הודעות אחרונות מתחת לטופס תגובה?";
+$locale['532'] = "הודעה אחרונה + %s";
+$locale['533'] = "הודעה אחרונה בלבד";
+$locale['534'] = "ספירת מקסימום נספחים:";
+$locale['535'] = "מספר מקסימלי של קבצים נספחים";
+$locale['536'] = "גבול זמן לעריכת הודעות:";
+$locale['537'] = "(בדקות, 0 מסמן ללא הגבלה)";
+$locale['538'] = "עדכון חותמת זמן להודעה בעקבות עריכה.";
 // Registration Settings
 $locale['550'] = "הרשמה";
 $locale['551'] = "אפשר מערכת הרשמה?";
@@ -75,9 +93,6 @@ $locale['553'] = "הצגת קוד אימות?";
 $locale['557'] = "משתמשים חדשים מאושרים על ידי מנהל?";
 $locale['558'] = "אפשר תנאי הסכם?";
 $locale['559'] = "תנאי הסכם";
-$locale['560'] = "שיטת התחברות:";
-$locale['561'] = "Cookies";
-$locale['562'] = "Sessions";
 // Photo Gallery Settings
 $locale['600'] = "גלרית תמונות";
 $locale['601'] = "גודל תמונה ממוזערת:";
@@ -125,7 +140,7 @@ $locale['670'] = "חשוב שמספר זה יהיה מספר אי זוגי";
 $locale['671'] = "אפשר מערכת תגובות?";
 $locale['672'] = "אפשר מערכת דרוגים?";
 $locale['673'] = "הסתרת פרופילי משתמש מהציבור:";
-$locale['674'] = "SMTP Port";
+$locale['674'] = "יציאת SMTP";
 $locale['675'] = "רמת תחזוקה:";
 $locale['676'] = "מנהלים";
 $locale['677'] = "מנהלים ראשיים";
@@ -135,8 +150,26 @@ $locale['680'] = "חסימת הצפה אוטומטית:";
 $locale['681'] = "תחזוקה";
 $locale['682'] = "הגדרות תחזוקה";
 $locale['683'] = "הגדרות אבטחה";
-
+$locale['684'] = "סידור תגובות";
+$locale['685'] = "סדר עולה";
+$locale['686'] = "סדר יורד";
 $locale['687'] = "מילים אסורות";
+$locale['688'] = "הצגת זמן בניית עמוד (בכותרת תחתונה)?";
+$locale['689'] = "כן (כל המבקרים)";
+$locale['690'] = "כן (מנהלים בלבד)";
+$locale['691'] = "אפשר למשתמשים לשנות את שם המשתמש";
+$locale['692'] = "הגדרות Captcha";
+$locale['693'] = "Captcha";
+$locale['694'] = "מפתח ציבורי Recaptcha (<a href='https://www.google.com/recaptcha/admin/create' title='קבלת מפתח כאן'>קבלת המפתח שלך</a>)";
+$locale['695'] = "מפתח פרטי Recaptcha";
+$locale['696'] = "יש להכניס את מפתח reCAPTCHA ציבורי ופרטי!";
+$locale['697'] = "בחירת צבע";
+$locale['697r'] = "אדום";
+$locale['697b'] = "זכוכית שחורה";
+$locale['697c'] = "נקי";
+$locale['697w'] = "לבן";
+$locale['698'] = "אימות SMTP?";
+
 // Private Message Settings
 $locale['700'] = "הודעות אישיות";
 $locale['701'] = "מספר הודעות מקסימלי לתיבת דואר נכנס:";
@@ -165,15 +198,22 @@ $locale['855'] = "תצוגה מקדימה לכרזות";
 // Settings Error
 $locale['900'] = "הגדרות עודכנו";
 $locale['901'] = "שגיאות התגלו בזמן עדכון מסד הנתונים: הגדרות לא עודכנו!";
+$locale['902'] = "מארח שרת לא יכול להשאר ריק!";
 // Item per Page
 $locale['910'] = "מספר מאמרים לדף";
 $locale['911'] = "מספר הודרות לדף";
 $locale['912'] = "מספר קישורים לדף";
+$locale['913'] = "תגובות לעמוד";
 // Downloads Settings
 $locale['930'] = "גודל מקסימלי להעלאה:";
 $locale['931'] = "גודל קובץ מקסימלי בבייטים";
 $locale['932'] = "סוגי קבצים מותרים:";
 $locale['933'] = "יש להפריד כל סוג קובץ בפסיק";
+$locale['934'] = "גודל לכידת מסך מקסימלי:";
+$locale['935'] = "רוחב x גובה";
+$locale['936'] = "גודל קובץ לכידת מסך מקסימלי (bytes):";
+$locale['937'] = "גודל סמלון לכידת מסך מקסימלי:";
+$locale['938'] = "אפשר לכידת מסך?";
 // News Settings
 $locale['950'] = "העלאת תמונה";
 $locale['951'] = "קישור תמונה:";
@@ -200,4 +240,29 @@ $locale['1010'] = "גודל תמונה מקסימלי (בייטים):";
 $locale['1011'] = "פעולת הסרת הפעלה:";
 $locale['1012'] = "משתמשים אנונימיים";
 $locale['1013'] = "משתמשים מחוקים";
+$locale['1014'] = "משתמשים יכולים להכנס ממספר מכשירים במקביל?";
+$locale['1014a'] = "ניטרול לבטיחות מקסימלית";
+// Date format options (you can add/delete lines)
+// More info at: http://php.net/manual/en/function.strftime.php
+$locale['dateformats'][] = "%m/%d/%Y";
+$locale['dateformats'][] = "%d/%m/%Y";
+$locale['dateformats'][] = "%d-%m-%Y";
+$locale['dateformats'][] = "%d.%m.%Y";
+$locale['dateformats'][] = "%m/%d/%Y %H:%M";
+$locale['dateformats'][] = "%d/%m/%Y %H:%M";
+$locale['dateformats'][] = "%d-%m-%Y %H:%M";
+$locale['dateformats'][] = "%d.%m.%Y %H:%M";
+$locale['dateformats'][] = "%m/%d/%Y %H:%M:%S";
+$locale['dateformats'][] = "%d/%m/%Y %H:%M:%S";
+$locale['dateformats'][] = "%d-%m-%Y %H:%M:%S";
+$locale['dateformats'][] = "%d.%m.%Y %H:%M:%S";
+$locale['dateformats'][] = "%B %d %Y";
+$locale['dateformats'][] = "%d. %B %Y";
+$locale['dateformats'][] = "%d %B %Y";
+$locale['dateformats'][] = "%B %d %Y %H:%M";
+$locale['dateformats'][] = "%d. %B %Y %H:%M";
+$locale['dateformats'][] = "%d %B %Y %H:%M";
+$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
+$locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
+$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
 ?>

@@ -3,7 +3,7 @@
 Hebrew Language Fileset
 Produced by theNoam (English source by Nick Jones)
 Email: n/a
-Web: http://thenoam.com/fusion/
+Web: http://thenoam.com/
 */
 
 // Locale Settings
@@ -216,4 +216,10 @@ $locale['global_464'] = "GB";
 $locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "הדף מופנה ל- %s, בבקשה סבלנות. אם האתר לא מופנה, לחצו כאן.";
+// Captcha Locales
+$locale['global_600'] = "קוד";
+$locale['recaptcha'] = "he";
+
+//Miscellaneous
+$locale['global_900'] = "Unable to convert HEX to DEC";
 ?>

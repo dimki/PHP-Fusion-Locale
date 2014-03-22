@@ -1,5 +1,5 @@
 <?php
-$locale['title'] = "התקנת PHP-Fusion";
+$locale['title'] = "התקנת מערכת PHP-Fusion בגרסה 7";
 $locale['sub-title'] = "התקנת מערכת PHP-Fusion בגרסה 7";
 
 $locale['xml_lang'] = "he";
@@ -189,14 +189,11 @@ $locale['240'] = "ההתקנה הסתיימה, PHP-Fusion 7 עכשיו מוכן 
 <b>הערה חשובה:</b> בשל דרישות אבטחה של המערכת, לאחר הכניסה לאתר יש למחוק את קובץ setup.php מהשרת<br>
 ולהחזיר הגדרת הרשאות CHMOD לקובץ config.php ל- 644.<br><br>
 תודה שאתם מנסים את מערכת PHP-Fusion בגרסה 7.";
-// theNoam mod
-$locale['901'] = "חיוך";
-$locale['902'] = "קריצה";
-$locale['903'] = "עצוב";
-$locale['904'] = "זועף";
-$locale['905'] = "נדהם";
-$locale['906'] = "חורץ לשון";
-$locale['907'] = "מגניב";
-$locale['908'] = "מגחך";
-$locale['909'] = "כועס";
+// Default time settings
+// http://php.net/manual/en/function.strftime.php
+$locale['shortdate'] = "%d.%m.%y";
+$locale['longdate'] = "%B %d %Y %H:%M:%S";
+$locale['forumdate'] = "%d-%m-%Y %H:%M";
+$locale['newsdate'] = "%B %d %Y";
+$locale['subheaderdate'] = "%B %d %Y %H:%M:%S";
 ?>

@@ -1,36 +1,36 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "מידע PHP";
 //General
-$locale['401'] = "General";
-$locale['402'] = "Server software";
-$locale['403'] = "Webserver software";
-$locale['404'] = "PHP version";
-$locale['405'] = "PHP interface";
-$locale['406'] = "MySQL Server version";
-$locale['407'] = "PHP-Fusion version";
-$locale['408'] = "Database prefix";
-$locale['409'] = "Cookie prefix";
-$locale['410'] = "Webbrowser and OS";
+$locale['401'] = "כללי";
+$locale['402'] = "תוכנת שרת";
+$locale['403'] = "תוכנת שרת אינטרנט";
+$locale['404'] = "גרסת PHP";
+$locale['405'] = "ממשק PHP";
+$locale['406'] = "גרסת MySQL של השרת";
+$locale['407'] = "גרסת PHP-Fusion";
+$locale['408'] = "קידומת בסיס נתונים";
+$locale['409'] = "קידומת עוגיות";
+$locale['410'] = "דפדפן אינטרנט ומערכת הפעלה";
 
 //PHP settings
-$locale['420'] = "PHP settings";
-$locale['421'] = "Yes";
-$locale['422'] = "No";
+$locale['420'] = "הגדרות PHP";
+$locale['421'] = "כן";
+$locale['422'] = "לא";
 $locale['423'] = "Safemode";
 $locale['424'] = "RegisterGlobals";
-$locale['425'] = "Support for";
-$locale['426'] = "Files upload (max file size)";
-$locale['428'] = "Display errors";
-$locale['429'] = "Disabled functions";
-$locale['430'] = "n/a";
-$locale['431'] = "version";
+$locale['425'] = "נתמך עבור";
+$locale['426'] = "קובצי העלאה (גודל קובץ מקסימלי)";
+$locale['428'] = "שגיאות תצוגה";
+$locale['429'] = "ניטרול פונקציות";
+$locale['430'] = "לא זמין";
+$locale['431'] = "גרסה";
 
 //Write permission
-$locale['440'] = "Folder Permissions";
-$locale['441'] = "Writeable";
-$locale['442'] = "Not writeable";
+$locale['440'] = "הרשאות תיקייה";
+$locale['441'] = "ניתן לכתיבה";
+$locale['442'] = "לא ניתן לכתיבה";
 
 //PHPinfo
-$locale['450'] = "Details";
-$locale['451'] = "Unable to get data. Check if phpinfo() function is switched off?";
+$locale['450'] = "פרטים";
+$locale['451'] = "לא ניתן לקבל נתונים. יש לבדוק אם פונקצית phpinfo() כבויה?";
 ?>

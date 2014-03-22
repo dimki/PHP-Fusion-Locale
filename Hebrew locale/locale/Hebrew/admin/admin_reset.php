@@ -1,48 +1,48 @@
 <?php
 // Infusion titles & description
-$locale['apw_title'] = "Administrator Password Reset";
-$locale['apw_desc'] = "Changes Administrator login/admin passwords";
-$locale['apw_admin1'] = "Administrator Reset";
+$locale['apw_title'] = "איפוס סיסמת מנהל";
+$locale['apw_desc'] = "שינוי סיסמאות כניסה / מנהל";
+$locale['apw_admin1'] = "איפוס מנהל";
 
-$locale['400'] = "Administrator(s) to reset:";
-$locale['401'] = "All Administrators";
-$locale['402'] = "Only Super Administrators";
-$locale['403'] = "Only Administrators";
-$locale['404'] = "Justification for reset:";
-$locale['405'] = "Reset both login and admin passwords";
-$locale['406'] = "Reset Passwords";
-$locale['407'] = "Password reset at ";
-$locale['408'] = "Hello [USER_NAME],
+$locale['400'] = "מנהלים לאיפוס:";
+$locale['401'] = "כל המנהלים";
+$locale['402'] = "רק מנהלי על";
+$locale['403'] = "רק מנהלים";
+$locale['404'] = "נימוק האיפוס:";
+$locale['405'] = "איפוס סימת כניסה וסימת מנהל";
+$locale['406'] = "איפוס סימאות";
+$locale['407'] = "סיסמאות אופסו ב ";
+$locale['408'] = "שלום [USER_NAME],
 
-Your admin password has been reset at ".$settings['siteurl'].":
+סיסמת המנהל שלך אופסה באתר ".$settings['siteurl'].":
 
-Admin Password: [NEW_ADMIN_PASS]
+סיסמת מנהל: [NEW_ADMIN_PASS]
 
-The reason for this reset is: [RESET_MESSAGE]
+סיבת האיפוס הנה: [RESET_MESSAGE]
 
-Regards,
+בברכה,
 [ADMIN]";
-$locale['409'] = "Hello [USER_NAME],
+$locale['409'] = "שלום [USER_NAME],
 
-Your login and admin passwords have been reset at ".$settings['siteurl'].":
+סיסמת החיבור שלך אופסה באתר ".$settings['siteurl'].":
 
-Login Password: [NEW_PASS]
-Admin Password: [NEW_ADMIN_PASS]
+סיסמת חיבור: [NEW_PASS]
+סיסמת מנהל: [NEW_ADMIN_PASS]
 
-The reason for this reset is: [RESET_MESSAGE]
+הסיבה לאיפוס הנה: [RESET_MESSAGE]
 
-Regards,
+בברכה,
 [ADMIN]";
-$locale['410'] = "Reset Results";
-$locale['411'] = "<strong>Notice:</strong> Admin Password not entered or incorrect.";
-$locale['412'] = "Admin Password:";
-$locale['415'] = "Reset Log";
-$locale['416'] = "Log ID";
-$locale['417'] = "Reset time";
-$locale['418'] = "Responsible";
-$locale['419'] = "Reset";
-$locale['420'] = "Successfull";
-$locale['421'] = "Reason";
-$locale['422'] = "of";
-$locale['423'] = "No reason given.";
+$locale['410'] = "תוצאות איפוס";
+$locale['411'] = "<strong>תשומת לבך:</strong> סיסמת מנהל לא הוכנסה או לא הוגדרה.";
+$locale['412'] = "סיסמת מנהל:";
+$locale['415'] = "לוג איפוס";
+$locale['416'] = "מספר זיהוי לוג";
+$locale['417'] = "זמן איפוס";
+$locale['418'] = "אחראי";
+$locale['419'] = "איפוס";
+$locale['420'] = "בהצלחה";
+$locale['421'] = "סיבה";
+$locale['422'] = "הנה";
+$locale['423'] = "לא ניתנה סיבה.";
 ?>

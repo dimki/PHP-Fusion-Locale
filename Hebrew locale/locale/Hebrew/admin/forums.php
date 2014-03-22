@@ -24,6 +24,8 @@ $locale['512'] = "פורום לא ניתן למחיקה";
 $locale['513'] = "קיימים שרשורים המשוייכים לפורום זה";
 $locale['514'] = "מחיקת פורום";
 $locale['515'] = "פורום נמחק";
+$locale['516'] = "Please enter a category name.";
+$locale['517'] = "Please enter a unique forum name.";
 // Add/Edit Forum Form
 $locale['520'] = "שם פורום";
 $locale['521'] = "תיאור פורום";
@@ -40,6 +42,12 @@ $locale['531'] = "כבוי";
 $locale['532'] = "שמירת פורום";
 $locale['533'] = "מודרטורים לפורום";
 $locale['534'] = "שמירת מודרטורים לפורום";
+$locale['535'] = "הורדת נספחים:";
+// Forum Settings
+$locale['540'] = "הגדרות פורום:";
+$locale['541'] = "מיזוג הודעות:";
+$locale['542'] = "מופעל";
+$locale['543'] = "מנוטרל";
 // Current Forums
 $locale['550'] = "פורומים קיימים";
 $locale['551'] = "קטגוריה/פורום";

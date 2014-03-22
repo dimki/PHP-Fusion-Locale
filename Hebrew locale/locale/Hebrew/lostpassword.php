@@ -21,4 +21,5 @@ $locale['411'] = "שלום [USER_NAME],\n
 [NEW_PASS]\n
 בברכה,
 ".$settings['siteusername'];
+$locale['412'] = "אירעה שגיאה, אנא נסו שוב.";
 ?>
