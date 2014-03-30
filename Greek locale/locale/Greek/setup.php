@@ -2,36 +2,36 @@
 $locale['title'] = "PHP-Fusion Core 7 Edition Setup";
 $locale['sub-title'] = "PHP-Fusion Core 7 Edition Setup";
 
-$locale['xml_lang'] = "en";
-$locale['charset'] = "iso-8859-1";
+$locale['xml_lang'] = "el";
+$locale['charset'] = "utf-8";
 $locale['mysql_charset'] = "latin1";
 $locale['mysql_collate'] = "latin1_swedish_ci";
 
-$locale['001'] = "Step 1: Locale";
-$locale['002'] = "Step 2: File and Folder Permissions Test";
-$locale['003'] = "Step 3: Database Settings";
-$locale['004'] = "Step 4: Config / Database Setup";
-$locale['005'] = "Step 5: Primary Admin Details";
-$locale['006'] = "Step 6: Final Settings";
-$locale['007'] = "Next";
-$locale['008'] = "Back";
-$locale['009'] = "Finish";
+$locale['001'] = "Στάδιο 1: Locale";
+$locale['002'] = "Στάδιο 2: File and Folder Permissions Test";
+$locale['003'] = "Στάδιο 3: Database Settings";
+$locale['004'] = "Στάδιο 4: Config / Database Setup";
+$locale['005'] = "Στάδιο 5: Primary Admin Details";
+$locale['006'] = "Στάδιο 6: Final Settings";
+$locale['007'] = "Επόμενο";
+$locale['008'] = "Επιστροφή";
+$locale['009'] = "Ολοκληρώθηκε";
 // Step 1
-$locale['010'] = "Please select the required locale (language):";
-$locale['011'] = "Download more locales from <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
+$locale['010'] = "Επιλέξτε την απαιτούμενη γλώσσα (γλώσσα):";
+$locale['011'] = "Κατεβάστε περισσότερες γλώσσες από <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
 // Step 2
-$locale['020'] = "In order for setup to continue, the following files/folders must be writable:";
+$locale['020'] = "Για να συνεχίσετε την εγκατάσταση, τα ακόλουθα αρχεία / φάκελοι πρέπει να είναι εγγράψιμοι:";
 $locale['021'] = "Write permissions check passed, click Next to continue.";
-$locale['022'] = "Write permissions check failed, please CHMOD files/folders marked Failed.";
+$locale['022'] = "Δικαιώματα εγγραφής έλεγχος απέτυχε, παρακαλώ CHMOD αρχεία / φάκελοι που σημειώθηκαν απέτυχε.";
 $locale['023'] = "Passed";
-$locale['024'] = "Failed";
-$locale['025'] = "Refresh";
+$locale['024'] = "Αποτυχία";
+$locale['025'] = "Ανανέωση";
 // Step 3 - Access criteria
-$locale['030'] = "Please enter your MySQL database access settings.";
-$locale['031'] = "Database Hostname:";
-$locale['032'] = "Database Username:";
-$locale['033'] = "Database Password:";
-$locale['034'] = "Database Name:";
+$locale['030'] = "Παρακαλούμε, εισάγετε MySQL ρυθμίσεις πρόσβασης της βάσης δεδομένων σας.";
+$locale['031'] = "Όνομα MySQL Βάσης Δεδομένων:";
+$locale['032'] = "Όνομα της βάσης δεδομένων:";
+$locale['033'] = "Kωδικό βάσης δεδομένων:";
+$locale['034'] = "Όνομα βάσης δεδομένων:";
 $locale['035'] = "Table Prefix:";
 $locale['036'] = "Cookie Prefix:";
 // Step 4 - Database Setup
